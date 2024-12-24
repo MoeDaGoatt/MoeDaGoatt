@@ -16,10 +16,28 @@ I'm **Muhammad Hamza**, a passionate Java developer who loves creating powerful 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## My Projects
-Here are some of the Java projects I've been working on:
-- 🌟 [Project Name 1](https://github.com/your-repo): Brief description of the project.
-- 🌟 [Project Name 2](https://github.com/your-repo): Brief description of the project.
+## Featured Projects 🚀
+
+### [CSC311_DB_UI_semesterlongproject](https://github.com/MoeDaGoatt/CSC311_DB_UI_semesterlongproject)
+An application to manage cricket tournaments with robust features for user account creation and team management.
+
+#### Key Features:
+- 🏏 Users can **sign up** for cricket tournaments.
+- 👥 Create an account and add people to a tournament.
+- 📂 **Import files** for quick data entry.
+- 📤 **Export files** for data portability.
+- 📝 Generate a **PDF sheet** with tournament details.
+
+
+### [CSC311_LambdasExamples2](https://github.com/MoeDaGoatt/CSC311_LambdasExamples2)
+A project demonstrating practical examples of using Java Lambdas and Streams. This project showcases operations with arrays, streams, comboBox, `IntStream`, and more.
+
+#### Key Features:
+- 🔄 **Stream Operations:** Examples of filtering, mapping, and reducing arrays using streams.
+- 📋 **ComboBox Integration:** Demonstrates how to integrate lambda expressions with UI components like ComboBox.
+- 🔢 **IntStream Operations:** Detailed examples of processing integer streams.
+- 📚 Great for learning **functional programming** concepts in Java.
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoeDaGoatt&show_icons=true&hide=contribs,prs&theme=radical)
